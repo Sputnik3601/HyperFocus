@@ -1,1 +1,3 @@
-# HyperFocus
+What is HyperFocus? 
+
+HyperFocus is an app designed specifically for high school and college students with ADHD who struggle with scheduling, assignment tracking, and time management. The app helps users prioritize their tasks, set reminders, and break down larger projects into smaller, more manageable steps. With its intuitive interface and easy-to-use features, HyperFocus helps students stay on task and avoid distractions. Users can create custom lists for assignments and projects, set deadlines, and track their progress over time. The app also includes features like time tracking, habit tracking, and a study timer, making it a comprehensive tool for managing academic responsibilities. With HyperFocus, students can achieve their academic goals and develop healthy study habits that will serve them well throughout their academic career.
